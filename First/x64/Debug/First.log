@@ -1,4 +1,2 @@
 ﻿  First.cpp
-/First.cpp(1,1): error C1083: Не удается открыть файл источник: First.cpp: No such file or directory,
-  (компиляция исходного файла "/First.cpp")
-  
+  First.vcxproj -> E:\c++\First\x64\Debug\First.exe

@@ -4,7 +4,9 @@
 #include <iostream>
 
 int main()
+{
     std::cout << "Hello World!\n";
+    std::cout << 2+1;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
